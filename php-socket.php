@@ -1,6 +1,6 @@
 <?php
 define('HOST_NAME',"javchatserver.herokuapp.com"); 
-define('PORT',"80");
+define('PORT',"8090");
 $null = NULL;
 
 require_once("class.chathandler.php");
