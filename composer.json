@@ -1,0 +1,11 @@
+{
+    "name": "javier/javchatserver",
+    "description": "Servidor de chat de pruebas v\u0000a socket",
+    "authors": [
+        {
+            "name": "Javier Ramos",
+            "email": "javerne@gmail.com"
+        }
+    ],
+    "require": {}
+}
