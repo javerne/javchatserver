@@ -1,5 +1,5 @@
 <?php
-define('HOST_NAME',"javchat.herokuapp.com"); 
+define('HOST_NAME',"javchatserver.herokuapp.com"); 
 define('PORT',"8090");
 $null = NULL;
 
